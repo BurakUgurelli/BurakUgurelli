@@ -3,9 +3,6 @@
 Currently working on:
 - A Fitness App; combining functionality and design to help users stay consistent with their workouts.  
 - A 2D RPG Game; exploring gameplay mechanics, pixel art, and storytelling.  
-
-Meanwhile, I'm experimenting with React (frontend) and TypeScript (backend) to improve my full-stack development skills.
-
 ---
 
 ## About Me
@@ -26,13 +23,6 @@ I'm passionate about coding, producing music and a design.
 - Build a small but complete 2D RPG  
 - Strengthen my TypeScript and full-stack development skills  
 
----
-
-## Get in Touch
-- LinkedIn: Burak Ugurelli
-- Email: burakugurelli@gmx.de 
-
----
 
 > "In the end, it’s about creating with intention. For me, every project should tell a story; whether it’s a design, a data-driven system, or a visual concept."
 > — Burak
